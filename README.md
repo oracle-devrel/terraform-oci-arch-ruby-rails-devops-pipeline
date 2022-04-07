@@ -45,8 +45,8 @@ and [setup guide](https://www.terraform.io/docs/providers/oci/guides/version-3-u
 
 Now, you'll want a local copy of this repo. You can make that with the commands:
 
-    git clone https://github.com/oracle-quickstart/oci-arch-ci-cd-devops
-    cd oci-arch-ci-cd-devops
+    git clone https://github.com/oracle-devrel/terraform-oci-arch-ruby-rails-devops-pipeline.git
+    cd terraform-oci-arch-ruby-rails-devops-pipeline
     ls
 
 ### Prerequisites
